@@ -76,7 +76,7 @@
       - Citrouille (overlay moins génant)
       - Bordure du monde (texture)
 #### Suppressions (Textures)
-   - -- Rien --
+   - Retour des textures de base pour les outils
       
 ## Version -  Serial Number
 
