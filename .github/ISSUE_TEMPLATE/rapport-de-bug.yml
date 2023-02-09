@@ -1,0 +1,74 @@
+
+name: Bug Report
+description: Créer un rapport de bug pour nous aider à nous améliorer le pack de ressource
+labels: [ "bug" ]
+body:
+    -   type: textarea
+        attributes:
+            label: Décrivez le bug
+            description: Une description claire et concise du bug rencontré.
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: Reproduire
+            description: Étapes pour reproduire le bug
+            value: |
+                1.
+                2.
+                3.
+                ...
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: Comportement attendu
+            description: Une description claire et concise de ce à quoi vous vous attendiez.
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: Captures d'écran et vidéos
+            description: Si possible, ajoutez des captures d'écran et vidéos pour aider à expliquer votre problème.
+        validations:
+            required: false
+    -   type: input
+        attributes:
+            label: Operating System
+            description: The operating system you were using when the bug occured
+            placeholder: Windows 11
+        validations:
+            required: true
+    -   type: dropdown
+        attributes:
+            label: Version de Minecraft
+            description: La version de Minecraft que vous utilisiez lorsque le bug s'est produit
+            options:
+                - "1.19"
+                - "1.18"
+                - "1.17"
+                - "1.16"
+        validations:
+            required: true
+    -   type: input
+        attributes:
+            label: Version de Forge
+            description: La version de Forge que vous utilisiez lorsque le bogue s'est produit
+            placeholder: 36.2.0
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: Autres mods
+            description: Veuillez énumérer tous les autres mods qui étaient en cours d'exécution lorsque le crash s'est produit.
+        validations:
+            required: false
+    -   type: textarea
+        attributes:
+            label: Information supplémentaire
+            description: Ajoutez ici tout autre information concernant le problème.
+        validations:
+            required: false
+    -   type: markdown
+        attributes:
+            value: "Merci d'avoir pris le temps de faire ce rapport de bug et d'aider à améliorer le pack de ressources!"
