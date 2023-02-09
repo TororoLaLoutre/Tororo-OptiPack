@@ -1,5 +1,5 @@
 # Tororo OptiPack
 
-Un ensemble de morceaux de packs de resources pour en créer un seul packs de ressources.
+A resource pack aimed at improving the game experience and immersion
 
-Optifine requis: https://www.optifine.net/downloads (lien externe)
+Optifine required: https://www.optifine.net/downloads (external link)
