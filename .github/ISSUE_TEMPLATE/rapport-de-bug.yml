@@ -2,16 +2,16 @@ name: Bug Report
 description: Create a bug report to help us improve the resource pack
 labels: [ "Bug" ]
 body:
-    - type: textarea
+    -   type: textarea
         attributes:
-            label: Describe the bug
-            description: A clear and concise description of the bug encountered.
+            label: Describe the Bug
+            description: A clear and concise description of what the bug is
         validations:
             required: true
-    - type: textarea
+    -   type: textarea
         attributes:
-            label: Reproduce
-            description: Steps to reproduce the bug
+            label: Reproduction Steps
+            description: Tell us about the steps to reproduce the bug.
             value: |
                 1.
                 2.
@@ -19,29 +19,22 @@ body:
                 ...
         validations:
             required: true
-    - type: textarea
+    -   type: textarea
         attributes:
-            label: Expected behavior
-            description: A clear and concise description of what you expected.
+            label: Expected Result
+            description: A clear and concise description of what you expected to happen
         validations:
             required: true
-    - type: textarea
+    -   type: textarea
         attributes:
             label: Screenshots and Videos
-            description: If possible, add screenshots and videos to help explain your problem.
+            description: If applicable, add screenshots or videos to help explain your problem.
         validations:
             required: false
-    -   type: input
+    -   type: dropdown
         attributes:
-            label: Operating System
-            description: The operating system you were using when the bug occured
-            placeholder: Windows 11
-        validations:
-            required: true
-    - type: dropdown
-        attributes:
-            label: Minecraft version
-            description: The version of Minecraft you were using when the bug occurred
+            label: Minecraft Version
+            description: The version of Minecraft you were using when the bug occured
             options:
                 - "1.19"
                 - "1.18"
@@ -49,25 +42,25 @@ body:
                 - "1.16"
         validations:
             required: true
-    - type: input
+    -   type: input
         attributes:
-            label: Forge version
-            description: The version of Forge you were using when the bug occurred
+            label: Forge Version
+            description: The version of Forge you were using when the bug occured
             placeholder: 36.2.0
         validations:
             required: true
-    - type: textarea
+    -   type: textarea
         attributes:
-            label: Other mods
-            description: Please list any other mods that were running when the crash occurred.
-        approvals:
-            required: false
-    - type: textarea
-        attributes:
-            label: Additional information
-            description: Add any other information about the problem here.
+            label: Other Mods
+            description: Please list any other mods that were running when the crash happened.
         validations:
             required: false
-    - type: markdown
+    -   type: textarea
+        attributes:
+            label: Additional Context
+            description: Add any extra context about the bug here
+        validations:
+            required: false
+    -   type: markdown
         attributes:
             value: "Thank you for taking the time to file this bug report and help improve the resource pack!"
