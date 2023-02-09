@@ -1,5 +1,21 @@
 # Changelog - Tororo OptiPack
-## 1.16 to 1.19 - Pre-release V.0.2.0-001
+## V.2.1.1
+
+#### Additions/Correction (Textures)
+   - Items
+      - echo_shard
+      - map
+   - Other
+      - Realistic sounds (explosion, stone, sapplings)
+      - Sun/Moon (round)
+      - rain/snow
+      - GUI of all blocks (except Enchanting table, horse and brewing stand)
+
+#### Deletions (Textures)
+   - Other
+      - Hopper GUI
+
+## Pre-release V.0.2.0-001
 
 #### Additions/Correction (Textures)
    - Blocks
