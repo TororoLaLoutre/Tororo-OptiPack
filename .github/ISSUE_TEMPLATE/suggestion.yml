@@ -1,25 +1,25 @@
 name: Suggestion
-description: Suggérer quelque chose qui améliorerait le pack de ressource
+description: Suggest something that would improve Create
 labels: [ "Suggestion" ]
 body:
     -   type: textarea
         attributes:
-            label: Décrivez la suggestion
-            description: Que devrions-nous ajouter ou modifier pour améliorer le pack.
+            label: Describe the Suggestion
+            description: What should we add or change to make Create better?
         validations:
             required: true
     -   type: textarea
         attributes:
-            label: Captures d'écran et vidéos
-            description: Si possible, ajoutez des captures d'écran et vidéos pour aider à expliquer votre suggestion.
+            label: Screenshots and Videos
+            description: If applicable, add screenshots or videos to help explain your suggestion.
         validations:
             required: false
     -   type: textarea
         attributes:
-            label: Information supplémentaire
-            description: Ajoutez ici tout autre information concernant votre suggestion.
+            label: Additional Context
+            description: Add any extra context about the suggestion here.
         validations:
             required: false
     -   type: markdown
         attributes:
-            value: "Merci d'avoir pris le temps de proposer une suggestion et d'aider à améliorer le pack de ressources!"
+            value: "Thank you for taking the time to make this suggestion and help improve Create!"
