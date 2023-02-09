@@ -8,7 +8,7 @@ body:
             description: A clear and concise description of the bug encountered.
         validations:
             required: true
-- type: textarea
+    - type: textarea
         attributes:
             label: Reproduce
             description: Steps to reproduce the bug
@@ -17,19 +17,19 @@ body:
                 2.
                 3.
                 ...
-        approvals:
+        validations:
             required: true
     - type: textarea
         attributes:
             label: Expected behavior
             description: A clear and concise description of what you expected.
-        approvals:
+        validations:
             required: true
     - type: textarea
         attributes:
             label: Screenshots and Videos
             description: If possible, add screenshots and videos to help explain your problem.
-        approvals:
+        validations:
             required: false
     -   type: input
         attributes:
@@ -38,7 +38,7 @@ body:
             placeholder: Windows 11
         validations:
             required: true
- - type: dropdown
+    - type: dropdown
         attributes:
             label: Minecraft version
             description: The version of Minecraft you were using when the bug occurred
@@ -47,14 +47,14 @@ body:
                 - "1.18"
                 - "1.17"
                 - "1.16"
-        approvals:
+        validations:
             required: true
     - type: input
         attributes:
             label: Forge version
             description: The version of Forge you were using when the bug occurred
             placeholder: 36.2.0
-        approvals:
+        validations:
             required: true
     - type: textarea
         attributes:
@@ -66,7 +66,7 @@ body:
         attributes:
             label: Additional information
             description: Add any other information about the problem here.
-        approvals:
+        validations:
             required: false
     - type: markdown
         attributes:
