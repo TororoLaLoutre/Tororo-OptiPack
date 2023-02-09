@@ -1,100 +1,100 @@
 # Changelog - Tororo OptiPack
-## 1.16 à 1.19 - Pre-release V.0.2.0-001
+## 1.16 to 1.19 - Pre-release V.0.2.0-001
 
-#### Ajouts/Correction (Textures)
+#### Additions/Correction (Textures)
    - Blocks
-      - Minerais (contour pour mieux les reconnaitres)
-      - Barreaux de fer (correction texture)
-      - Porte armures
-      - Feu de camps (animation du feu)
-      - Pousse de melon/citrouille
-      - Commande block
-      - Composter (affiche le niveau de remplissage)
-      - Ruche (affiche le niveau de remplissage)
-      - Buche de bois (rond a l'interieur)
-      - Entonnoir (correction texture)
-      - Levier
-      - Cadre
+      - Ores (outline to better recognize them in the cave)
+      - Iron bars (texture correction)
+      - Armor Stands
+      - Campfire (fire animation)
+      - melon/pumpkin stem
+      - Command block
+      - Compost (shows fill level)
+      - Beehive (shows fill level)
+      - Buche (round texture inside)
+      - Hopper (texture fix)
+      - Lever
+      - Item frame
    - Items
-      - Porte armures
-      - Bougies
-      - Diamant
+      - Armor Stands
+      - Candles
+      - Diamond
       - Quartz
-      - Éclat d'améthyste
-      - Seau de lave (animation)
-      - Seau d'eau (animation)
-      - Seau avec axolotl (animation)
-      - Bâton
-      - Lingot de fer
-      - Lingot d'or
-      - Cuir (plus foncé)
-      - Ficelle
-      - Bolle vide
-      - Plume
-      - Boule de Slime
-      - Poudre d'os
-      - Tous les colorants (tube de painture)
-      - Yeux de l'end
-      - Perles de l'end
-      - Fiole d'expérience
-      - Pomme (normal et dorée)
-      - Steak (cru et cuit)
-      - Mouton (cru et cuit)
-      - Bettrave
+      - Amethyst Shard
+      - Lava bucket (animation)
+      - Water bucket (animation)
+      - Bucket with axolotl (animation)
+      - Stick
+      - Iron ingot
+      - Gold bar
+      - Leather (darker)
+      - String
+      - Bowl
+      - Feather
+      - Slime Ball
+      - Bone meal
+      - All dyes (paint tube)
+      - Eye of ender
+      - Ender Pearls
+      - Experience Bottle
+      - Apple (normal and golden)
+      - Beef (raw and cooked)
+      - Mutton (raw and cooked)
+      - Beetroot
       - Cookies
-      - Gâteau
-      - Soupe de lapin
-      - Longue-vue
-      - Etiquette
+      - Cake
+      - Rabbit stew
+      - Spyglass
+      - Nametag
       - Trident
-      - Totem d'immortalité
-      - Membrane de Phantom
-      - Cuivre brut
-      - Levier
-      - Barrier
+      - totem of undying
+      - Phantom Membrane
+      - Raw copper
+      - Lever
+      - Barrier block
       - Bamboo
-      - Patate (cuite)
+      - Potato (cooked)
       - Debug Stick
-      - Algue
-      - Œil d'araignée fermenté
-      - Œil d'araignée
-      - Fer brute
-      - Or brut
-      - Structure Void
-   - Entitées
-      - Creeper (skin de cactus)
-      - Loup/Chien (skin de berger allemand)
-      - Chevre hurlante (comme le meme de la chevre qui crie)
-   - Autre
-      - Sons réaliste (météo, blocks, pas, entitées,ambiance,sous l'eau)
-      - Culture prete a etre recoltée (fleche au dessus)
-      - Nombres niveau enchantement (au lieu de I,II,III: 1,2,3)
-      - GUI (interface) coffre, shulker, entonoir
-      - Animation destruction blocks 
-      - Lune/Soleil (moins "carée")
-      - Items enchanté (émette moins de "lumière")
-      - Citrouille (overlay moins génant)
-      - Bordure du monde (texture)
-#### Suppressions (Textures)
-   - Retour des textures de base pour les outils
+      - Kelp
+      - Fermented Spider's Eye
+      - Spider Eye
+      - Raw iron
+      - Raw gold
+      - Void structure
+   - Entities
+      - Creeper (cactus skin)
+      - Wolf/Dog (German Shepherd skin)
+      - Screaming goat (like the screaming goat meme)
+   - Other
+      - Realistic sounds (weather, blocks, footsteps, entities, atmosphere, underwater)
+      - Crop ready to be harvested (arrow above)
+      - Enchantment level numbers (instead of I,II,III: 1,2,3)
+      - GUI chest, shulker, hopper
+      - Block destruction animation
+      - Moon/Sun (less "square")
+      - Enchanted items (emits less "light")
+      - Pumpkin (less annoying overlay)
+      - World border (texture)
+#### Deletions (Textures)
+      - Return of base textures for tools
       
 ## Version -  Serial Number
 
-#### Ajouts/Correction  (Textures)
+#### Additions/Correction (Textures)
    - Blocks
       - (text)
-   - Items
+   -Items
       - (text)
-   - Entitées
+   - Entities
       - (text)
-   - Autre
+   - Other
       - (text)
-#### Suppressions (Textures)
+#### Deletions (Textures)
    - Blocks
       - (text)
-   - Items
+   -Items
       - (text)
-   - Entitées
+   - Entities
       - (text)
-   - Autre
+   - Other
       - (text)
