@@ -76,6 +76,7 @@
       - Pumpkin (less annoying overlay)
       - World border (texture)
 #### Deletions (Textures)
+   - Other
       - Return of base textures for tools
       
 ## Version -  Serial Number
