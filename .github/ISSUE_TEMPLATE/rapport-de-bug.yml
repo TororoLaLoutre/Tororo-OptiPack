@@ -1,36 +1,35 @@
-
 name: Bug Report
-description: Créer un rapport de bug pour nous aider à nous améliorer le pack de ressource
-labels: [ "bug" ]
+description: Create a bug report to help us improve the resource pack
+labels: [ "Bug" ]
 body:
-    -   type: textarea
+    - type: textarea
         attributes:
-            label: Décrivez le bug
-            description: Une description claire et concise du bug rencontré.
+            label: Describe the bug
+            description: A clear and concise description of the bug encountered.
         validations:
             required: true
-    -   type: textarea
+- type: textarea
         attributes:
-            label: Reproduire
-            description: Étapes pour reproduire le bug
+            label: Reproduce
+            description: Steps to reproduce the bug
             value: |
                 1.
                 2.
                 3.
                 ...
-        validations:
+        approvals:
             required: true
-    -   type: textarea
+    - type: textarea
         attributes:
-            label: Comportement attendu
-            description: Une description claire et concise de ce à quoi vous vous attendiez.
-        validations:
+            label: Expected behavior
+            description: A clear and concise description of what you expected.
+        approvals:
             required: true
-    -   type: textarea
+    - type: textarea
         attributes:
-            label: Captures d'écran et vidéos
-            description: Si possible, ajoutez des captures d'écran et vidéos pour aider à expliquer votre problème.
-        validations:
+            label: Screenshots and Videos
+            description: If possible, add screenshots and videos to help explain your problem.
+        approvals:
             required: false
     -   type: input
         attributes:
@@ -39,36 +38,36 @@ body:
             placeholder: Windows 11
         validations:
             required: true
-    -   type: dropdown
+ - type: dropdown
         attributes:
-            label: Version de Minecraft
-            description: La version de Minecraft que vous utilisiez lorsque le bug s'est produit
+            label: Minecraft version
+            description: The version of Minecraft you were using when the bug occurred
             options:
                 - "1.19"
                 - "1.18"
                 - "1.17"
                 - "1.16"
-        validations:
+        approvals:
             required: true
-    -   type: input
+    - type: input
         attributes:
-            label: Version de Forge
-            description: La version de Forge que vous utilisiez lorsque le bogue s'est produit
+            label: Forge version
+            description: The version of Forge you were using when the bug occurred
             placeholder: 36.2.0
-        validations:
+        approvals:
             required: true
-    -   type: textarea
+    - type: textarea
         attributes:
-            label: Autres mods
-            description: Veuillez énumérer tous les autres mods qui étaient en cours d'exécution lorsque le crash s'est produit.
-        validations:
+            label: Other mods
+            description: Please list any other mods that were running when the crash occurred.
+        approvals:
             required: false
-    -   type: textarea
+    - type: textarea
         attributes:
-            label: Information supplémentaire
-            description: Ajoutez ici tout autre information concernant le problème.
-        validations:
+            label: Additional information
+            description: Add any other information about the problem here.
+        approvals:
             required: false
-    -   type: markdown
+    - type: markdown
         attributes:
-            value: "Merci d'avoir pris le temps de faire ce rapport de bug et d'aider à améliorer le pack de ressources!"
+            value: "Thank you for taking the time to file this bug report and help improve the resource pack!"
