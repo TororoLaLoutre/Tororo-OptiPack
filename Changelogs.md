@@ -1,5 +1,50 @@
 # Changelog - Tororo OptiPack
-## V.2.1.1
+## Release V.2.1.2
+
+#### Additions/Correction (Textures)
+   - Blocks
+      - piston (arm)
+      - torch
+      - redstone torch
+   -Items
+      - diamond helmet
+      - gold helmet
+      - iron helmet
+      - gold sword
+      - iron sword
+      - diamond sword
+      - gold axe
+      - iron axe
+      - diamond axe
+      - gold shovel
+      - iron shovel
+      - diamond shovel
+      - gold pickaxe
+      - iron pickaxe
+      - diamond pickaxe
+      - gold hoe
+      - iron hoe
+      - diamond hoe
+      - All music disc
+      - torch
+      - redstone torch
+      - cake
+   - Entities
+      - (text)
+   - Other
+      - armor slot
+      - realistic sounds (crossbow shoot, enderdragon, zombie, enderman, iron golem, wither skeleton, horse, bow)
+#### Deletions (Textures)
+   - Blocks
+      - (text)
+   -Items
+      - (text)
+   - Entities
+      - (text)
+   - Other
+      - (text)
+
+## Release V.2.1.1
 
 #### Additions/Correction (Textures)
    - Items
