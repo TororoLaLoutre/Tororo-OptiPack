@@ -3,10 +3,9 @@
 
 #### Additions/Correction (Textures)
    - Blocks
-      - piston (arm)
       - torch
       - redstone torch
-   -Items
+   - Items
       - diamond helmet
       - gold helmet
       - iron helmet
