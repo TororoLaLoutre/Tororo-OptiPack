@@ -28,20 +28,9 @@
       - torch
       - redstone torch
       - cake
-   - Entities
-      - (text)
    - Other
       - armor slot
       - realistic sounds (crossbow shoot, enderdragon, zombie, enderman, iron golem, wither skeleton, horse, bow)
-#### Deletions (Textures)
-   - Blocks
-      - (text)
-   -Items
-      - (text)
-   - Entities
-      - (text)
-   - Other
-      - (text)
 
 ## Release V.2.1.1
 
