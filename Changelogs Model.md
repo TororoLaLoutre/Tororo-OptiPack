@@ -4,7 +4,7 @@
 #### Additions/Correction (Textures)
    - Blocks
       - (text)
-   -Items
+   - Items
       - (text)
    - Entities
       - (text)
