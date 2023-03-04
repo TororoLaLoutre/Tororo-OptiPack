@@ -13,7 +13,7 @@
 #### Deletions (Textures)
    - Blocks
       - (text)
-   -Items
+   - Items
       - (text)
    - Entities
       - (text)
