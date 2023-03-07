@@ -49,3 +49,6 @@ List:
 - ushanka
 - vr
 - welder helmet
+
+EN: To get the toolgun from Garry's Mod you have to rename one of the followibng items: wooden axe, arrow, gunpowder, flint, feather, in an anvil.
+FR: Pour obtenir le toolgun de Garry's Mod, vous devez renommer l'un des éléments suivants : hache en bois, flèche, poudre à canon, silex, plume, dans une enclume.
