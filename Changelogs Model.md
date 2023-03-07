@@ -1,4 +1,4 @@
-# Changelog Model - Tororo OptiPack
+# Changelogs Model - Tororo OptiPack
 
 ## Version -  Serial Number
 
