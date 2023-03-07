@@ -1,4 +1,4 @@
-# Changelog - Tororo OptiPack
+# Changelogs - Tororo OptiPack
 
 ## Release V.2.1.6
 
