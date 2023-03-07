@@ -9,6 +9,6 @@
 <p align="center"><a href="https://github.com/TororoLaLoutre/Tororo-OptiPack/issues"><img src="https://i.imgur.com/qPmjSXy.png" width="160" /></a> <a
 
 <h1></h1>
-<h4 align="center">Find out more about Tororo's OptiPack on our <a href="https://github.com/TororoLaLoutre/Tororo-OptiPack/releases">Curseforge</a> Page
+<h4 align="center">Find out more about Tororo's OptiPack on our <a href="https://github.com/TororoLaLoutre/Tororo-OptiPack/wiki">CWiki</a> Page
 
 <h4 align="center"> Optifine required: https://www.optifine.net/downloads (external link)
