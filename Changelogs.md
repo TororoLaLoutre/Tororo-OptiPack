@@ -26,7 +26,7 @@
   - Hopper Minecart
   - Furnace Minecart
   - Command Block Minecart
-  - Crossbow (Shootgun)
+  - Crossbow (Shotgun)
   - Gold Nugget
   - Iron Nugget
 - Entities
