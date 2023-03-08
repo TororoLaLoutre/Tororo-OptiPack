@@ -1,5 +1,53 @@
 # Changelogs - Tororo OptiPack
 
+## Release V.2.1.7
+
+#### Additions/Correction (Textures)
+
+- Blocks
+  - Spawner
+  - Beds (All Of Them)
+  - Scaffolding
+  - Snow layer (block side)
+- Items
+  - Blaze Powder
+  - Ghast Tear
+  - Cooked Porkchop
+  - Porkchop
+  - Cooked Chicken
+  - Chicken
+  - Cooked mutton
+  - Mutton
+  - Shears
+  - Written Book
+  - Writable Book
+  - Chest Minecart
+  - Minecart
+  - Hopper Minecart
+  - Furnace Minecart
+  - Command Block Minecart
+  - Crossbow (Shootgun)
+  - Gold Nugget
+  - Iron Nugget
+- Entities
+  - Husk
+  - Boats (Mangrove Boat with Chest a little bit bug)
+  - Skeleton
+  - witch
+  - pillager
+  - evoker
+  - illusionner
+  - vindicator
+- Other
+  - Many Hats (check <https://tinyurl.com/dwj95k63>)
+
+#### Deletions (Textures)
+
+- Items
+  - Broken Elytra
+- Other
+  - Pumpkin Blur
+
 ## Release V.2.1.6
 
 #### Additions/Correction (Textures)
