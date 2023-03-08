@@ -8,19 +8,17 @@ List:
 - apple with arrow
 - arrow
 - balaklava
-- bear_hat
-- beekeepers mask
+- bear hat
+- beekeeper mask
 - cake
 - cardboard box
 - chef toque
 - christmas hat
-- cigarette
 - cowboy hat
 - crown
 - disguise
 - diving helmet
 - elf hat
-- fire
 - racoon hat
 - fox hat
 - frog
@@ -30,19 +28,15 @@ List:
 - headphones
 - kabuto helmet
 - microphone
-- mlgglasses
 - mushroom hat
 - nimbus
-- plague doc mask
 - propeller hat
 - reindeer antlers
 - respirator
 - safety helmet
 - sombrero
-- somie
-- soul fire
 - stalker gas mask
-- straw_hat
+- straw hat
 - tall top hat
 - top hat
 - tv
