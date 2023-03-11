@@ -4,10 +4,6 @@ FR: Pour obtenir n'importe quel chapeau, vous devez renommer une citrouille scul
 List:
 - witch hat
 - altyn helmet
-- apple
-- apple with arrow
-- arrow
-- balaklava
 - bear hat
 - beekeeper mask
 - cake
@@ -16,25 +12,16 @@ List:
 - christmas hat
 - cowboy hat
 - crown
-- disguise
 - diving helmet
 - elf hat
-- racoon hat
-- fox hat
-- frog
 - gas_mask
 - graduation cap
-- guzzler helmet
 - headphones
-- kabuto helmet
 - microphone
-- mushroom hat
 - nimbus
 - propeller hat
-- reindeer antlers
 - respirator
 - safety helmet
-- sombrero
 - stalker gas mask
 - straw hat
 - tall top hat
@@ -45,5 +32,5 @@ List:
 - welder helmet
 
 EN: To get the toolgun from Garry's Mod you have to rename one of the followibng items: wooden axe, arrow, gunpowder, flint, feather, in an anvil.
-FR: Pour obtenir le toolgun de Garry's Mod, vous devez renommer l'un des éléments suivants : hache en bois, flèche, poudre à canon, silex, plume, dans une enclume.
+FR: Pour obtenir le toolgun de Garry's Mod, vous devez renommer l'un des éléments suivants : hache en bois, flèche, poudre à canon, silex, plume, dans une enclume.
 - toolgun
