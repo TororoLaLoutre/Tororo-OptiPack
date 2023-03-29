@@ -1,0 +1,45 @@
+EN: To get any custom items you have to rename a specific item in an anvil.
+FR: Pour obtenir des objets personnalisés, vous devez renommer un objet spécifique dans une enclume.
+
+I) EN: Carved Pumpkin
+   FR: Citrouille sculptée
+- witch hat
+- altyn helmet
+- bear hat
+- beekeeper mask
+- cake
+- cardboard box
+- chef toque
+- christmas hat
+- cowboy hat
+- crown
+- diving helmet
+- elf hat
+- gas mask
+- graduation cap
+- headphones
+- microphone
+- nimbus
+- propeller hat
+- respirator
+- safety helmet
+- stalker gas mask
+- straw hat
+- tall top hat
+- top hat
+- tv
+- ushanka
+- vr
+- welder helmet
+
+II) EN: wooden axe, arrow, gunpowder, flint, feather
+    FR: hache en bois, flèche, poudre à canon, silex, plume
+- toolgun
+
+III) EN: Diamond Sword, Netherite Sword, Diamond Axe, Netherite Axe, Diamond Pickaxe, Netherite Pickaxe
+     FR: Épée de diamant, Épée de Netherite, Hache de diamant, Hache de Netherite, Pioche de diamant, Pioche de Netherite
+- mjolnir
+
+IV) EN: Shield
+    FR: Bouclier
+- cap
