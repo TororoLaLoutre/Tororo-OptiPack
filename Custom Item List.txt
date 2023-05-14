@@ -43,3 +43,7 @@ III) EN: Diamond Sword, Netherite Sword, Diamond Axe, Netherite Axe, Diamond Pic
 IV) EN: Shield
     FR: Bouclier
 - cap
+
+V) EN: Tnt
+   FR: Tnt
+- c4
